@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AcidGrid.com</string>
+    <string name="Description">Acidgrid developer webpage,\n Android and iOS developer</string>
+    <string name="WebPage">https://developer.acidgrid.com</string>
+    <string name="Hours">8:00AM to 6:00PM (GMT -6)</string>
+    <string name="Address">Rancho de los Arcos 70,\nC.P. 04920, Coyoacan, Mexico City</string>
+</resources>
